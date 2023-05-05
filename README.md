@@ -9,8 +9,6 @@
 
 
 ------ 
-Original 
-------
 
 
 # SPIGA: Shape Preserving Facial Landmarks with Graph Attention Networks.
