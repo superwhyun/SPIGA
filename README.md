@@ -5,7 +5,9 @@
 - 실시간 PC 캠으로부터 받은 영상에 대해 face landmark와 head position을 그리도록 함.
 - Draw facial landmarks and indicate the position of the head in real-time video captured from a webcam on a computer.
 
-
+# TODO
+- face의 bounding box를 찾는 코드가 불안정함. 좀더 좋은 방법을 찾아야 함.
+- The code for finding the bounding box of a face is unstable. A more robust approach needs to be found.
 
 
 ------ 
