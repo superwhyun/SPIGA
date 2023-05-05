@@ -3,7 +3,7 @@
 
 # Modifications
 - 실시간 PC 캠으로부터 받은 영상에 대해 face landmark와 head position을 그리도록 함.
-- Draw face landmarks and head position from video received from a live PC cam.
+- Draw facial landmarks and indicate the position of the head in real-time video captured from a webcam on a computer.
 
 
 
