@@ -1,3 +1,18 @@
+
+
+
+# Modifications
+- 실시간 PC 캠으로부터 받은 영상에 대해 face landmark와 head position을 그리도록 함.
+- Draw face landmarks and head position from video received from a live PC cam.
+
+
+
+
+------ 
+Original 
+------
+
+
 # SPIGA: Shape Preserving Facial Landmarks with Graph Attention Networks.
 
 [![Project Page](https://badgen.net/badge/color/Project%20Page/purple?icon=atom&label)](https://bmvc2022.mpi-inf.mpg.de/155/)
